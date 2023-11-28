@@ -16,6 +16,17 @@
   align-content: center;
   justify-content: center;
   text-align: center;
+  display: none;
+}
+.searchBar {
+  width: 20%;
+  border: solid 2px black;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
 }
 .Txs {
   display: flex;
